@@ -7,7 +7,7 @@
 #
 # Contributors:
 #   Red Hat, Inc. - initial API and implementation
-FROM quay.io/eclipse/che-sidecar-kubernetes-tooling:1.0.0
+FROM quay.io/eclipse/che-sidecar-kubernetes-tooling:1.0.4-a46d022
 
 ENV KAMEL_VERSION 1.0.0-M4
 
